@@ -54,7 +54,7 @@ I am a front-end developer and in the near future, I plan to start my career on 
 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
-   I started my journey with programming as a high school student majoring in computer science. I approached the topic with great passion and quickly fell in love with it. I began my journey with Python, then moved on to Javascript and React, and eventually added Firebase and Next.js to my skillset. Despite having only six months of experience, I know a lot and I am eager to learn even more. Don't wait up, because I'm coming.
+   I started my journey with programming as a high school student majoring in computer science. I approached the topic with great passion and quickly fell in love with it. I began my journey with Python, then moved on to Javascript and React, and eventually added Firebase and Next.js to my skillset. Despite having only three months of experience, I know a lot and I am eager to learn even more. Don't wait up, because I'm coming.
 </details>
 
 
