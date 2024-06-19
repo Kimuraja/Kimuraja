@@ -6,9 +6,9 @@ I am a front-end developer intern with experience in building web applications f
 
 
 <p align="center">
-  <a href="https://github.com/Zala145?tab=repositories&sort=stargazers">
+  <a href="https://github.com/Kimura?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Zala145?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/Zala145?tab=followers">
+  <a href="https://github.com/Kimura?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Zala145?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
